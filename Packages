@@ -17,3 +17,197 @@ SHA1: a682831055131f11eb3849feafaf80939ac85593
 SHA256: e48e2d64fc7a380c2c0ae4b1aaac9d03b235129026eac3a45301ef6756ff392d
 SHA521: 603b6285c72653d64b30921a377e7124d05fd42a7c281e418635936e231fdabb7ea7b3f06383841b7ea7d74fd5f29babff2e9280c9eff6f1f67066e9d64c0650
 
+Package: com.foxfort.facebookdarkmode
+Name: FacebookDarkMode
+Version: 2.6.4
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, com.foxfort.foxforttools (>= 1.1.1), com.foxfort.libfoxfortsplash
+Installed-Size: 3540
+Author: FoxfortMobile
+Maintainer: FoxfortMobile
+Description: Dark mode for Facebook
+Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
+Filename: debs/com.foxfort.facebookdarkmode_2.6.4_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/com.foxfort.facebookdarkmode.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/com.foxfort.facebookdarkmode.png
+Size: 2090168
+MD5sum: 94a5ca3dad614fc47fff233c0f0d06f3
+SHA1: 710094b3be572241c55ed9475396b0a0ac9c9956
+SHA256: 241ff2ee9a957da2e35761f2ca6a101da1971b49df182187bf016f8f1c9cdbaa
+SHA521: f50b66d766633d0d402a2f0e8fe674724573ee9038f6ec8ade475bef0fb68dd54ee1505f98ad385577a4d974f586904e110fd7c2556997f0233f0cd55dcc4fa4
+
+Package: com.springtomize.st5
+Name: Springtomize 5
+Version: 5.1.6
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Installed-Size: 2120
+Author: sharedRoutine
+Maintainer: sharedRoutine
+Description: Customize your device like never before.
+Filename: debs/com.springtomize.st5_5.1.6_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/com.springtomize.st5.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/com.springtomize.st5.png
+Size: 415354
+MD5sum: 723bc2967b835672f63eef694a294e54
+SHA1: 6b1f7f9101c42db360422b3c0bcd4ef5b23dafbf
+SHA256: 40de6d9d484a754ff1ce3a9a837425fccb143410a8e7426b815a435044376b92
+SHA521: 3141c945506ffb9eb36c429f460dab36ae07df1a22440822788e84e690d13b5f43b3a56ccd35e2686219d193812f820cee88def476a597323b39b1ce4262bb3a
+
+Package: com.foxfort.deluminator
+Name: Deluminator
+Version: 3.0.7
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist, preferenceloader, com.foxfort.foxforttools (>= 1.1.1), com.foxfort.libfoxfortsplash, com.opa334.ccsupport
+Installed-Size: 4164
+Author: FoxfortMobile
+Maintainer: FoxfortMobile
+Description: Night mode for the web
+Icon: file:///Library/PreferenceBundles/deluminatorsettings.bundle/icon@3x.png
+Filename: debs/com.foxfort.deluminator_3.0.7_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/com.foxfort.deluminator.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/com.foxfort.deluminator.png
+Size: 2377778
+MD5sum: 65b68960a412a4daa1342dbb5404dcc1
+SHA1: 0e9113b8411d931e031e7885c85759f1fe9817ce
+SHA256: e46f642ca013f4f4b9550b3b2bf1d0fd795ae4a677c0ef94b81176d1caa1dd3a
+SHA521: 6dfb6b1797bc6ce8ab3eb71e0ec209b6e93df5ca9698c84280a7b53e2122b60f556d192d0fc6b19112f7fe3a51a64a83ab3807d2c1ed2f915e19903ff1ce4f21
+
+Name: FingerTouch
+Package: it.dreamcode.ft
+Priority: optional
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Version: 0.0.6b2
+Architecture: iphoneos-arm
+Description: Touch ID gestures
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fingertouchDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fingertouchDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Michele Primavera <support@dreamcode.it>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Installed-Size: 257
+dev: dreamcode
+Icon: file:///Library/PreferenceBundles/fingertouchprefs.bundle/icon@2x.png
+Filename: debs/it.dreamcode.ft_0.0.6b2_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/it.dreamcode.ft.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/it.dreamcode.ft.png
+Size: 18984
+MD5sum: f8d05a63030381a86081750ca0ecf146
+SHA1: a891f64a641873acd3f1f4ae306a545b75c442c6
+SHA256: 1dac53db24d6a31012256a7fb7442dbc9c02a43323bcb5765500eca66035a44c
+SHA521: 42c5a75555b2b94239906270881030f6d59462a162d61f67f38f9f614c536de4ab7d4ed283c2bd0b737bbd441f2a4d00a01ed67dccf6d91f3505e3359fb285e2
+
+Package: tw.hiraku.ikeywi4
+Name: iKeywi 4
+Version: 4.1.7
+Section: Tweaks
+Priority: optional
+Architecture: iphoneos-arm
+Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), applist
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, tw.hiraku.ikeywi3p, com.tw3pole.exkey, gsc.ipad
+Installed-Size: 884
+Author: Hiraku <dev@hiraku.tw>
+Maintainer: Hiraku <dev@hiraku.tw>
+Description: Adding a customizable row of keyboard
+Depiction: Adding a customizable row of keyboard
+Filename: debs/tw.hiraku.ikeywi4_4.1.7_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/tw.hiraku.ikeywi4.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/tw.hiraku.ikeywi4.png
+Size: 248078
+MD5sum: 5e8169b2fc32febbb75d49041974de99
+SHA1: e3a9da466243c48fc3d24e102f31ac6f3b66279b
+SHA256: 47f7ea94aafc1f2074ab461f44c38ff2baa2d4584b008368b713d2f857d50e73
+SHA521: 8edad937b74fb4ed99a61d9fb1238d6ae8df8e541e5f4bdcefbb98e327ac97684b4eeb51bb91ec85954d827a26731911e612e1f419d8e64652452845664ee43b
+
+Package: com.pxcex.localiapstore13
+Name: LocalIAPStore13
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 136
+Filename: debs/com.pxcex.localiapstore13_0.0.1_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/com.pxcex.localiapstore13.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/com.pxcex.localiapstore13.png
+Size: 2684
+MD5sum: ecfd8c78d1a9f6c841715d7257cde6b3
+SHA1: 755abab6e45b47294f5181b790e36b8a37a87bbf
+SHA256: 5e0cfa0ae83c1517fbcccf0a150a6d794ffdc2696e9e6e6d4659cd96185aa9f3
+SHA521: ad4eab5855c379e45271f504f0c48913ae4233b3e160f4496bb609dfdb123a3bd08a84786a45373a3ebb82ec91f3bb16071b8b682b282286e464b4546c231cca
+
+Package: org.mr.multipla
+Name: Multipla
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Description: Power to your Dock
+Maintainer: MainRepo
+Version: 1.2.1k
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: xyz.burritoz.thomz.multiplalite, com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, xyz.burritoz.thomz.multiplalite
+Depiction: https://mainrepo.org/package/693
+SileoDepiction: https://mainrepo.org/sileo/693
+Architecture: iphoneos-arm
+Installed-Size: 2807
+Icon: https://chariz.com/cdn/icon/multipla/icon@3x.png
+Filename: debs/org.mr.multipla_1.2.1k_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/org.mr.multipla.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/org.mr.multipla.png
+Size: 1619380
+MD5sum: 7c811354dbb1d290a1038ab2fd2416db
+SHA1: 7415043c710b248a62ef26793920f7123225d3c7
+SHA256: 39c24d1070781ce9d36fb284e4bf398c384e0d1e4631fe628c3c06caf53071d2
+SHA521: f8ad435f80330cab8ddaae416f6f171358b89cc24d29c8509cc85a7b228c69d570367e73e3534975b724bee50c922c0ca440bded8f1030d9295da71439223491
+
+Package: ru.rejail.limneosos
+Name: Limneosos
+Version: 2.0.2
+Description: Название само говорит за себя
+Author: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate
+Priority: optional
+Installed-Size: 212
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=limneosos
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=limneosos
+Filename: debs/ru.rejail.limneosos_2.0.2_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/ru.rejail.limneosos.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/ru.rejail.limneosos.png
+Size: 23914
+MD5sum: c05187b63fd20b1260221b66ebb9429e
+SHA1: e8803f96b302fef53f9ad0a62efb4634cc3de62a
+SHA256: eccecbc1c5f0bdffad4157514f80268cec2c8ffb67115d1e045cd401eafaf67f
+SHA521: 62169f2469ae93251bf9fd9f5dfc1d1ccd242da6cfe52b2203d435304df83018c4c69d71c7a7c090059af8c0a119d9c9430f8f458789e3e8a6646975041000c8
+
+Package: org.mr.counted
+Name: Counted
+Author: Dave van Wijk <vanwijkdave@gmail.com>
+Description: Your days are Counted
+Maintainer: MainRepo
+Version: 1.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Depiction: https://mainrepo.org/package/470
+SileoDepiction: https://mainrepo.org/sileo/470
+Architecture: iphoneos-arm
+Installed-Size: 268
+Icon: https://chariz.com/cdn/icon/counted/icon@3x.png
+Tag: compatible::ios13
+Filename: debs/org.mr.counted_1.1_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/org.mr.counted.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/org.mr.counted.png
+Size: 46726
+MD5sum: a213f832624721aa5e772fada8e45219
+SHA1: cef461c2894edf8ec689f789ef67bf203c94f570
+SHA256: a36ea5beeefd091e01173397cde2da3c742ee7d3d9e7df247dd8e3bbd865327b
+SHA521: 3e8740e27c6a452b76a89321c950bb93dd4c19426d65c6b18203b3a4958fadfa121796434bfd475c47ef6bec96bb4de752591fdba0c45a49d67412f9172556ab
+
