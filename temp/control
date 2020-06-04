@@ -1,10 +1,14 @@
-Package: me.tomt000.copylog
-Name: CopyLog
-Version: 1.4.2
+Package: org.mr.counted
+Name: Counted
+Author: Dave van Wijk <vanwijkdave@gmail.com>
+Description: Your days are Counted
+Maintainer: MainRepo
+Version: 1.1
 Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Depiction: https://mainrepo.org/package/470
+SileoDepiction: https://mainrepo.org/sileo/470
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader
-Installed-Size: 4284
-Author: TomT000
-Maintainer: TomT000
-Description: Clipboard history manager for iOS!
+Installed-Size: 268
+Icon: https://chariz.com/cdn/icon/counted/icon@3x.png
+Tag: compatible::ios13
