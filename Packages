@@ -1,0 +1,19 @@
+Package: me.tomt000.copylog
+Name: CopyLog
+Version: 1.4.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 4284
+Author: TomT000
+Maintainer: TomT000
+Description: Clipboard history manager for iOS!
+Filename: debs/me.tomt000.copylog_1.4.2_iphoneos-arm.deb
+Depiction: https://unja1lbroken.github.io/Cydia/depictions/me.tomt000.copylog.html
+Icon: https://unja1lbroken.github.io/Cydia/icons/me.tomt000.copylog.png
+Size: 1429498
+MD5sum: 98700bb9d036c954cd765b240292968e
+SHA1: a682831055131f11eb3849feafaf80939ac85593
+SHA256: e48e2d64fc7a380c2c0ae4b1aaac9d03b235129026eac3a45301ef6756ff392d
+SHA521: 603b6285c72653d64b30921a377e7124d05fd42a7c281e418635936e231fdabb7ea7b3f06383841b7ea7d74fd5f29babff2e9280c9eff6f1f67066e9d64c0650
+

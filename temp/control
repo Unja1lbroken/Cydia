@@ -1,0 +1,10 @@
+Package: me.tomt000.copylog
+Name: CopyLog
+Version: 1.4.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 4284
+Author: TomT000
+Maintainer: TomT000
+Description: Clipboard history manager for iOS!
